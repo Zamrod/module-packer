@@ -51,7 +51,7 @@
     "front-matter": "^3.0.2",
     "fs-extra": "^8.1.0",
     "glob": "^7.1.4",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "markdown-it": "^8.4.2",
     "markdown-it-anchor": "^5.2.4",
     "markdown-it-attrs": "^2.4.1",
